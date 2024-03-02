@@ -9,16 +9,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 📫 How to reach me: Nitinkumavat08@gmail.com
 - ⚡ Fun fact: I have completed MCA (Masters in Computer Application) in 2018
 
-<a href="https://www.github.com/dipayansarkar47" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/dipayansarkar47?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipayansarkar47&label=Profile%20views&color=0e75b6&style=flat" alt="dipayansarkar47" /> </p>
-
-<p align="left">
-    <a href="https://twitter.com/codewithbiki" target="blank"><img src="https://img.shields.io/twitter/follow/codewithbiki?logo=twitter&style=for-the-badge" alt="codewithbiki" /></a>
-</p>
-
 <h3 align="left">Languages:</h3>
 <p align="left">
-
     <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="firebase" width="auto" height="40" />
     </a>
@@ -31,7 +23,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <a href="https://jquery.com/" target="_blank" rel="noreferrer">
         <img src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon-thumbnail.png" alt="firebase" width="auto" height="40" />
     </a>
-
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="auto" height="40" />
     </a>
