@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🔭 I’m currently working IN 63 Moons
 - 🌱 I’m Interested to work on Web 3.0
-- 👀 I’m interested in coding -
+- 👀 I’m interested in coding 
 - 💬 Ask me about Technology & UI/UX
 - 📫 How to reach me: Nitinkumavat08@gmail.com
 - ⚡ Fun fact: I have completed MCA (Masters in Computer Application) in 2018
@@ -72,12 +72,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     </a>
 </p>
 
-<b>Top Repositories</b>
+<a href="https://github.com/dipayansarkar47" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipayansarkar47&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<div width="100%" align="center">
-    <a href="https://github.com/dipayansarkar47/Dipayan" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dipayansarkar47&repo=Dipayan&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-    <a href="https://github.com/dipayansarkar47/Sandesh" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dipayansarkar47&repo=Sandesh&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
 <!---
 nitin08bot/nitin08bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
