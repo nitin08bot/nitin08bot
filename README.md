@@ -73,7 +73,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 <h2>potrtfolio</h2>
-<ol>
+<ol type="1">
   
       <li><a class="" target="_blank" href="https://www.synapsewave.com//">word press website of synapsewave </a> <br></li>
         <li><a class="" target="_blank" href="https://bchlx.com/">bchlx.com</a><br></li>
@@ -89,7 +89,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
                                     <li><a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br></li>
                                          <li>     <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br></li>  
                                          <li>   <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br></li>
-                                       <li></li>
+                                    
 
 <li>  <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br></li>
 <li>  <a class="" target="_blank" href="https://quickrpt.com/">quickrpt.com</a> <br></li>
