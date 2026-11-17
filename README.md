@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nitin Kumavat<br><br> 7.5 years of experience in ui ux designer lead
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nitin Kumavat<br> <br>7.5 years of experience in ui ux designer lead
 ======================================================================================================================================
 <h4>A UI/UX Designer | Web Designer </h4>
 
