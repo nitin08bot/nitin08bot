@@ -73,11 +73,35 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 <h2>potrtfolio</h2>
-<a class="" target="_blank" href="https://www.synapsewave.com//">word press website of synapsewave </a> <br>
-<a class="" target="_blank" href="https://bchlx.com/">bchlx.com</a><br>
- <div class="mylink col-md-3"><a class="" target="_blank" href="https://bchlx.com/">bchlx.com</a><br>
-     <a class="" target="_blank" href="https://vivahlx.com/">vivahlx.com</a><br>
-                        <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br>
+<ol>
+  
+      <li><a class="" target="_blank" href="https://www.synapsewave.com//">word press website of synapsewave </a> <br></li>
+        <li><a class="" target="_blank" href="https://bchlx.com/">bchlx.com</a><br></li>
+          <li> <div class="mylink col-md-3"><a class="" target="_blank" href="https://bchlx.com/">bchlx.com</a><br></li>
+            <li> <a class="" target="_blank" href="https://vivahlx.com/">vivahlx.com</a><br></li>
+           
+                 <li>  <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br></li>
+                    <li> <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br></li>
+                       <li>  <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br></li>
+                          <li> <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br></li>
+                               <li> <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br></li>    
+                               <li> <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br></li>
+                                    <li><a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br></li>
+                                         <li>     <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br></li>  
+                                         <li>   <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br></li>
+                                       <li></li>
+
+<li>  <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br></li>
+<li>  <a class="" target="_blank" href="https://quickrpt.com/">quickrpt.com</a> <br></li>
+<li>   <a class="" target="_blank" href="https://quickrpt.com/">quickrpt.com</a> <br></li>
+<li>  <a class="" target="_blank" href="https://quickrpt.com/">quickrpt.com</a> <br></li>
+</ol>
+
+
+
+
+    
+                      
                         <a class="" target="_blank" href="https://quickrpt.com/">quickrpt.com</a> <br>
                        <a class="" target="_blank" href="https://idsqi.com/">idsqi.com</a>
                        <a target="_blank" href="https://salivaquik.com/">salivaquik.com</a>
@@ -89,19 +113,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a target="_blank" href="https://jmart.com/">jmart.com</a>
 
 <a target="_blank" href="https://www.barallogistics.net/">barallogistics.net</a>
-
-
-
-
-
 <div class="row mt-4">
     <a target="_blank" href="https://play.google.com/store/apps/details?id=com.softonauts.vivahlx">Vivahlx</a>
 
-    <a target="_blank" href="https://play.google.com/store/apps/details?id=com.softonauts.salivaquik">Salivaquik</a>
-
-    <a target="_blank" href="https://play.google.com/store/apps/details?id=com.softonauts.idsqi">IDSQI</a>
-
-    <a target="_blank" href="https://play.google.com/store/apps/details?id=com.softonauts.bchlx">Bchlx</a>
+   
 
 
 
