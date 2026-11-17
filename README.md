@@ -88,12 +88,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
    <a class="" target="_blank" href="https://quickrpt.com/">quickrpt.com</a> <br></li>
   <a class="" target="_blank" href="https://quickrpt.com/">quickrpt.com</a> <br></li>
                  
-<a target="_blank" href="https://prhix.com/">prhix.com</a>
-<a target="_blank" href="https://pvbmhealth.com/">pvbmhealth.com</a>
-<a target="_blank" href="https://nbdinconnect.com/">nbdinconnect.com</a>
-<a target="_blank" href="https://redpillcp.com/">redpillcp.com</a>
-<a target="_blank" href="https://jmart.com/">jmart.com</a>
-<a target="_blank" href="https://www.barallogistics.net/">barallogistics.net</a>
+<a target="_blank" href="https://prhix.com/">prhix.com</a><br>
+<a target="_blank" href="https://pvbmhealth.com/">pvbmhealth.com</a><br>
+<a target="_blank" href="https://nbdinconnect.com/">nbdinconnect.com</a><br>
+<a target="_blank" href="https://redpillcp.com/">redpillcp.com</a><br>
+<a target="_blank" href="https://jmart.com/">jmart.com</a><br>
+<a target="_blank" href="https://www.barallogistics.net/">barallogistics.net</a><br>
     <a target="_blank" href="https://play.google.com/store/apps/details?id=com.softonauts.vivahlx">Vivahlx</a>
 
 
