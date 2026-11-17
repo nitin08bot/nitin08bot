@@ -2,11 +2,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <h4>A UI/UX Designer | Web Designer </h4>
 
-- 🔭 I’m currently working IN 63 Moons
+- 🔭 I’m currently working immediate joiner
 - 🌱 I’m Interested to work on Web 3.0
-- 👀 I’m interested in coding 
+- 👀 I’m interested in coding
+- - 👀 I have worked in 63 moons technologies limited
+  - - 👀Ihave worked in softonauts infotech pvt ltd. 
 - 💬 Ask me about Technology & UI/UX
 - 📫 How to reach me: Nitinkumavat08@gmail.com
+- - 📫 How to reach me on call : 777-580-9981/7021544736
 - ⚡ Fun fact: I have completed MCA (Masters in Computer Application) in 2018
 
 <h3 align="left">Languages:</h3>
