@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🔭 I’m currently working immediate joiner
 - 🌱 I’m Interested to work on Web 3.0
 - 👀 I’m interested in coding
-- - 👀 I have worked in 63 moons technologies limited. for 3 years.
+- - 👀 I have worked in 63 moons technologies limited for 3 years.
   - - 👀Ihave worked in softonauts infotech pvt ltd for 4 years.
 - 💬 Ask me about Technology & UI/UX
 - 📫 How to reach me: Nitinkumavat08@gmail.com
