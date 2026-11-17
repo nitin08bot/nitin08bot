@@ -73,7 +73,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 <h2>potrtfolio</h2>
-<a class="" target="_blank" href="http://brokeragetechnologysolutions.63moons.com/">BTS WebSIte</a>
+<a class="" target="_blank" href="[http://brokeragetechnologysolutions.63moons.com](https://www.synapsewave.com/)/">(word press website</a><br>
+<a class="" target="_blank" href="https://bchlx.com/">bchlx.com</a><br>
+ <div class="mylink col-md-3"><a class="" target="_blank" href="https://bchlx.com/">bchlx.com</a><br>
+     <a class="" target="_blank" href="https://vivahlx.com/">vivahlx.com</a><br>
+                        <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br>
+                        <a class="" target="_blank" href="https://quickrpt.com/">quickrpt.com</a> <br>
+                       <a class="" target="_blank" href="https://idsqi.com/">idsqi.com</a>
 
 
 
