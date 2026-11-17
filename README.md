@@ -69,7 +69,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h2>potrtfolio</h2>
   
   
--<a class="" target="_blank" href="https://www.synapsewave.com//">word press website of synapsewave </a> <br>
+<a class="" target="_blank" href="https://www.synapsewave.com//">word press website of synapsewave </a> <br>
 <a class="" target="_blank" href="https://bchlx.com/">bchlx.com</a><br>
  <div class="mylink col-md-3"><a class="" target="_blank" href="https://bchlx.com/">bchlx.com</a><br>
   <a class="" target="_blank" href="https://vivahlx.com/">vivahlx.com</a><br>
