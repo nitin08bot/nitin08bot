@@ -66,7 +66,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     </a>
 </p>
 
-<h2>potrtfolio</h2>
+<h2>potrtfolio Links</h2>
   
   
 <a class="" target="_blank" href="https://www.synapsewave.com//">word press website of synapsewave </a> <br>
