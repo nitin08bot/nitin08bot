@@ -73,6 +73,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 <h2>potrtfolio</h2>
+
 <ol type="1">
   
       <li><a class="" target="_blank" href="https://www.synapsewave.com//">word press website of synapsewave </a> <br></li>
@@ -117,7 +118,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <a target="_blank" href="https://play.google.com/store/apps/details?id=com.softonauts.vivahlx">Vivahlx</a>
 
    
-
+</ol>
 
 
 <br /><br /><br /><br /><br /><br /><br />
