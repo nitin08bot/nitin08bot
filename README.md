@@ -80,6 +80,28 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
                         <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br>
                         <a class="" target="_blank" href="https://quickrpt.com/">quickrpt.com</a> <br>
                        <a class="" target="_blank" href="https://idsqi.com/">idsqi.com</a>
+                       <a target="_blank" href="https://salivaquik.com/">salivaquik.com</a>
+<a target="_blank" href="https://prhix.com/">prhix.com</a>
+
+<a target="_blank" href="https://pvbmhealth.com/">pvbmhealth.com</a>
+<a target="_blank" href="https://nbdinconnect.com/">nbdinconnect.com</a>
+<a target="_blank" href="https://redpillcp.com/">redpillcp.com</a>
+<a target="_blank" href="https://jmart.com/">jmart.com</a>
+
+<a target="_blank" href="https://www.barallogistics.net/">barallogistics.net</a>
+
+
+
+
+
+<div class="row mt-4">
+    <a target="_blank" href="https://play.google.com/store/apps/details?id=com.softonauts.vivahlx">Vivahlx</a>
+
+    <a target="_blank" href="https://play.google.com/store/apps/details?id=com.softonauts.salivaquik">Salivaquik</a>
+
+    <a target="_blank" href="https://play.google.com/store/apps/details?id=com.softonauts.idsqi">IDSQI</a>
+
+    <a target="_blank" href="https://play.google.com/store/apps/details?id=com.softonauts.bchlx">Bchlx</a>
 
 
 
