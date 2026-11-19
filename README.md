@@ -76,19 +76,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a class="" target="_blank" href="https://bchlx.com/">bchlx.com</a><br>
  <div class="mylink col-md-3"><a class="" target="_blank" href="https://bchlx.com/">bchlx.com</a><br>
   <a class="" target="_blank" href="https://vivahlx.com/">vivahlx.com</a><br>
-           
- <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br>
-<a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br>
-<a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br>
-  <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br>
-<a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br>    
-  <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br>
-    <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br>
-   <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br>  
-  <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br>
-   <a class="" target="_blank" href="http://viva.quickrpt.com/">viva.quickrpt.com</a><br></li>
-  <a class="" target="_blank" href="https://quickrpt.com/">quickrpt.com</a> <br></li>
-   <a class="" target="_blank" href="https://quickrpt.com/">quickrpt.com</a> <br></li>
   <a class="" target="_blank" href="https://quickrpt.com/">quickrpt.com</a> <br></li>
                  
 <a target="_blank" href="https://prhix.com/">prhix.com</a><br>
